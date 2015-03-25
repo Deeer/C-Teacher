@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9BC7FCD3-51E4-4BD1-B08A-81E64F290196</string>
+	<key>IDESourceControlProjectName</key>
+	<string>C++Ex</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5501F49C55EC27F98AF978393046B0139325FA31</key>
+		<string>https://github.com/Deeer/C-Ex_teacher.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>C++Ex.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5501F49C55EC27F98AF978393046B0139325FA31</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Deeer/C-Ex_teacher.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5501F49C55EC27F98AF978393046B0139325FA31</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5501F49C55EC27F98AF978393046B0139325FA31</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C++Ex</string>
+		</dict>
+	</array>
+</dict>
+</plist>
