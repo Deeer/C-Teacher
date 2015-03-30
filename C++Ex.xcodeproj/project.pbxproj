@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C1086E891AC1738D00D53BBA /* Poly2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C1086E881AC1738D00D53BBA /* Poly2.cpp */; };
+		04760C621AC4038400874AD3 /* BB.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 04760C611AC4038400874AD3 /* BB.cpp */; };
+		04B098621AC40C7400461AC8 /* File.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 04B098611AC40C7400461AC8 /* File.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +24,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		04760C5B1AC3FCFC00874AD3 /* C++11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "C++11.cpp"; sourceTree = "<group>"; };
+		04760C5E1AC3FF6700874AD3 /* Auto.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Auto.cpp; sourceTree = "<group>"; };
+		04760C611AC4038400874AD3 /* BB.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BB.cpp; sourceTree = "<group>"; };
+		04B098611AC40C7400461AC8 /* File.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = File.cpp; sourceTree = "<group>"; };
 		C1086E7F1AC160E300D53BBA /* Operation.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Operation.cpp; sourceTree = "<group>"; };
 		C1086E821AC16A0D00D53BBA /* Inheritance.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Inheritance.cpp; sourceTree = "<group>"; };
 		C1086E841AC16CFD00D53BBA /* Inheritance2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Inheritance2.cpp; sourceTree = "<group>"; };
@@ -76,6 +81,10 @@
 				C1086E841AC16CFD00D53BBA /* Inheritance2.cpp */,
 				C1086E861AC170CA00D53BBA /* Poly.cpp */,
 				C1086E881AC1738D00D53BBA /* Poly2.cpp */,
+				04760C5B1AC3FCFC00874AD3 /* C++11.cpp */,
+				04760C5E1AC3FF6700874AD3 /* Auto.cpp */,
+				04760C611AC4038400874AD3 /* BB.cpp */,
+				04B098611AC40C7400461AC8 /* File.cpp */,
 			);
 			path = "C++Ex";
 			sourceTree = "<group>";
@@ -136,7 +145,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1086E891AC1738D00D53BBA /* Poly2.cpp in Sources */,
+				04760C621AC4038400874AD3 /* BB.cpp in Sources */,
+				04B098621AC40C7400461AC8 /* File.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
